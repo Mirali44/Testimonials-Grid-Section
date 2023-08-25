@@ -36,8 +36,9 @@ img{
 .box1{
     grid-area: 1/1/2/4;
     background-color: hsl(263, 55%, 52%);
-    /* background-image: url('./images/bg-pattern-quotation.svg'); */
+    background-image: url('./images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
+    background-position: 80% top;
 }
 .box2{
     grid-area: 1/4/2/5;
